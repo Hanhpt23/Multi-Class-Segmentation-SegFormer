@@ -12,11 +12,14 @@ This file is sourced from [Finetune SegFormer](https://github.com/NielsRogge/Tra
 4. Assessing the results using multi-class segmentation metrics
 
 ## Validation during the training
-<p align="center">
+<div align="center">
   <img src="images/image.jpg" width="400" />
   <img src="image/prediction.jpg" width="400" />
+</div>
 </p>
 <p align="center">
   Figure 1: Input image and prediction from the model.
 </p>
+
+
 
