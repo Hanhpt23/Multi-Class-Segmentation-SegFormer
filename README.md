@@ -5,7 +5,6 @@ This file is sourced from [Finetune SegFormer](https://github.com/NielsRogge/Tra
 2. Dataloader
 3. Data inference
 
-
 ## In this project, we will learn:
 1. Install the transformers library from [HuggingFace](https://huggingface.co/docs/transformers/model_doc/segformer)
 2. Fine-tuning SegFormerForSemanticSegmentation for a small dataset taken from ADE20K
