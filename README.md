@@ -13,13 +13,13 @@ This file is sourced from [Finetune SegFormer](https://github.com/NielsRogge/Tra
 
 ## Validation during the training
 <div align="center">
-  <img src="images/image.jpg" width="400" />
-  <img src="image/prediction.jpg" width="400" />
+  <img src="images/image.png" width="400" />
+  <img src="image/prediction.png" width="400" />
 </div>
 </p>
 <p align="center">
-  <img src="images/image.jpg" width="400" />
-  <img src="image/prediction.jpg" width="400" />
+  <img src="images/image.png" width="400" />
+  <img src="image/prediction.png" width="400" />
   Figure 1: Input image and prediction from the model.
 </p>
 
