@@ -18,7 +18,7 @@ This file is sourced from [Finetune SegFormer](https://github.com/NielsRogge/Tra
   <img src="images/prediction.png" width="400" />
 </div>
 <p align="center">
-  Figure 1: Prediction from the model on the PPE dataset
+  Figure 1: Input and prediction from the model.
 </p>
 
 
